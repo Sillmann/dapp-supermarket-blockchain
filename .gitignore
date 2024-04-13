@@ -4,4 +4,4 @@
 node_modules/
 .env
 .leiame*
-.readme-dapp-supermarket*
+/readme-dapp*
